@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "775601758732",
+    "firebase_url": "https://firequest-c6402.firebaseio.com",
+    "project_id": "firequest-c6402",
+    "storage_bucket": "firequest-c6402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775601758732:android:2b4b3f8135d36477",
+        "android_client_info": {
+          "package_name": "com.eye.firequest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775601758732-001vmqupsg1i9t7bdggu4a78du1uhgg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw_fGR24PoSWa7zSI6BFgxt1tPV_o6Tuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
